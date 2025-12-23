@@ -8,7 +8,6 @@
 
   [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin)](www.linkedin.com/in/murat-raimbekov)
   [![Email](https://img.shields.io/badge/Email-Contact-red?style=for-the-badge&logo=gmail)](mailto:raimbekov_m@auca.kg)
-  [![Ultralytics](https://img.shields.io/badge/Ultralytics-Contributor-00ADD8?style=for-the-badge&logo=github)](https://github.com/ultralytics/ultralytics/pulls?q=author%3Araimbekovm)
 
   </div>
 
@@ -16,12 +15,9 @@
 
   ## 🚀 About Me
 
-  I'm a **Machine Learning Engineer** specializing in **Computer Vision** and **Deep Learning**. My passion lies in developing AI-powered solutions that solve real-world problems, particularly in infrastructure monitoring and defect detection.
+  I'm a **Machine Learning Engineer** specializing in **Computer Vision** and **Deep Learning**. My passion lies in developing AI-powered solutions that solve real-world problems.
 
-  - 🔭 Currently working on: **AI solutions for road infrastructure analysis**
   - 🎯 Expertise: **Object Detection, Image Segmentation, YOLO models**
-  - 🌱 Open Source: **Contributing to Ultralytics YOLO**
-  - 💼 Notable Project: **RoadDoctor** - Automated road defect detection system
   - 📚 Always learning: Advanced CV architectures, MLOps, Edge AI
 
   ---
@@ -56,30 +52,7 @@
 
   ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=raimbekovm&layout=compact&theme=tokyonight&hide_border=true)
 
-  ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=raimbekovm&theme=tokyonight&hide_border=true)
-
   </div>
-
-  ---
-
-  ## 🏆 Featured Projects
-
-  ### 🛣️ RoadDoctor
-  **AI-Powered Road Defect Detection System**
-  - Automated detection of potholes, cracks, and road damage using YOLOv8
-  - Real-time inference pipeline for infrastructure monitoring
-  - Custom dataset annotation and model training
-  - **Tech**: Python, YOLOv8, OpenCV, PyTorch
-
-  ### 🤝 Open Source Contributions
-  - **[Ultralytics YOLO](https://github.com/ultralytics/ultralytics/pull/23024)** - Documentation improvements for YOLOv10 architecture
-  - Active contributor to Computer Vision and Machine Learning open-source ecosystem
-
-  ---
-
-  ## 📈 Contribution Activity
-
-  ![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=raimbekovm&theme=tokyo-night&hide_border=true)
 
   ---
 
@@ -88,8 +61,8 @@
   ```python
   class CurrentFocus:
       learning = ["Advanced YOLO architectures", "MLOps", "Edge AI deployment"]
-      building = ["RoadDoctor v2.0", "Custom CV solutions"]
-      contributing = ["Ultralytics YOLO", "Open source ML tools"]
+      building = ["Custom CV solutions"]
+      contributing = ["Open source ML tools"]
       exploring = ["Vision Transformers", "3D Object Detection", "Real-time systems"]
 
   ---
