@@ -6,7 +6,7 @@
 
   *Building intelligent systems that see and understand the world*
 
-  [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin)](www.linkedin.com/in/murat-raimbekov)
+  [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/murat-raimbekov)
   [![Email](https://img.shields.io/badge/Email-Contact-red?style=for-the-badge&logo=gmail)](mailto:raimbekov_m@auca.kg)
 
   </div>
@@ -70,6 +70,6 @@
 
   I'm always interested in collaborating on exciting Computer Vision projects or discussing ML/AI innovations!
 
-  - 💼 LinkedIn: www.linkedin.com/in/murat-raimbekov
+  - 💼 LinkedIn: https://www.linkedin.com/in/murat-raimbekov
   - 📧 Email: raimbekov_m@auca.kg
   - 💻 Portfolio: https://github.com/raimbekovm
