@@ -60,31 +60,36 @@
 
   ---
 
-  ## 📌 Pinned Repositories
+  ## 📌 Featured Repositories
 
-  <div align="center">
+  ### [🔥 Ultralytics YOLO](https://github.com/ultralytics/ultralytics)
+  **YOLOv8, YOLOv11 - State-of-the-art object detection framework**
+  - 50k+ stars | Contributing to the most popular computer vision library
+  - Fixed neural network module docstrings ([#23024](https://github.com/ultralytics/ultralytics/pull/23024))
 
-  <a href="https://github.com/ultralytics/ultralytics">
-    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=ultralytics&repo=ultralytics&theme=tokyonight&hide_border=true" />
-  </a>
+  ### [🎓 Computer Vision Course](https://github.com/raimbekovm/computer_vision_course)
+  **Comprehensive CV projects: Segmentation, Classification, Detection**
+  - U-Net semantic segmentation: **0.9895 Dice coefficient**
+  - Grain classification with EfficientNetV2 + ConvNeXt ensemble
+  - 11+ deep learning notebooks covering PyTorch, CNN, ResNet, Object Detection
 
-  <a href="https://github.com/raimbekovm/computer_vision_course">
-    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=raimbekovm&repo=computer_vision_course&theme=tokyonight&hide_border=true" />
-  </a>
+  ### [🏙️ Smart City - Road Defects Detection](https://github.com/raimbekovm/hackathon-urban-tech)
+  **AI-powered road infrastructure monitoring (Yandex Hackathon 2024)**
+  - YOLOv8 object detection: **85%+ mAP**
+  - Real-time analytics with Leaflet.js mapping
+  - Technologies: YOLOv8, JavaScript, Leaflet.js
 
-  <a href="https://github.com/raimbekovm/hackathon-urban-tech">
-    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=raimbekovm&repo=hackathon-urban-tech&theme=tokyonight&hide_border=true" />
-  </a>
+  ### [🚗 Car Market Scraper](https://github.com/raimbekovm/car-market-scraper)
+  **Automated web scraping system for automotive data**
+  - Scrapes Kolesa.kz, Drom.ru, Mashina.kg
+  - Clean, structured dataset generation
+  - Technologies: Python, Beautiful Soup, Selenium
 
-  <a href="https://github.com/raimbekovm/car-market-scraper">
-    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=raimbekovm&repo=car-market-scraper&theme=tokyonight&hide_border=true" />
-  </a>
-
-  <a href="https://github.com/raimbekovm/database_auca">
-    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=raimbekovm&repo=database_auca&theme=tokyonight&hide_border=true" />
-  </a>
-
-  </div>
+  ### [💾 Database Course Projects](https://github.com/raimbekovm/database_auca)
+  **PostgreSQL database design and implementation**
+  - SQL queries, ER modeling, indexing strategies
+  - Transactions, backup, and optimization techniques
+  - Course: COM-424.1 Databases at AUCA
 
   ---
 
