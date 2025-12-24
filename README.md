@@ -32,12 +32,8 @@
 
   **Merged Pull Requests:**
   - 🔧 [#23024](https://github.com/ultralytics/ultralytics/pull/23024) - Fixed incorrect docstrings in neural network modules
-  - 🧹 [#XXXXX](https://github.com/ultralytics/ultralytics/pull/XXXXX) - Removed redundant assertions in loss calculation *(In Review)*
 
   **Impact:** Improving code quality and maintainability for 10,000+ weekly users
-
-  ![Contributions](https://img.shields.io/badge/Merged_PRs-2-success?style=for-the-badge)
-  ![Lines Changed](https://img.shields.io/badge/Lines_Changed-10+-blue?style=for-the-badge)
 
   ---
 
@@ -56,21 +52,37 @@
   ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
   ![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white)
 
-  ### Computer Vision Expertise
-  - **Object Detection**: YOLOv5, YOLOv8, YOLOv11, Faster R-CNN
-  - **Segmentation**: Mask R-CNN, SAM, U-Net
-  - **Frameworks**: Ultralytics, MMDetection, Detectron2
-  - **Deployment**: ONNX, TensorRT, OpenVINO
+  ### Featured Projects & Achievements
+  - **🏆 Insulator Segmentation**: 0.9895 Dice coefficient with U-Net + ResNet34
+  - **🏆 Road Defects Detection**: 85%+ mAP with YOLOv8 (Yandex Hackathon 2024)
+  - **🏆 Grain Classification**: High F1-Score with Ensemble (EfficientNetV2 + ConvNeXt)
+  - **🛠️ Deployment**: ONNX, TensorRT, OpenVINO, Edge AI
 
   ---
 
-  ## 📊 GitHub Stats
+  ## 📌 Pinned Repositories
 
   <div align="center">
 
-  ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=raimbekovm&show_icons=true&theme=tokyonight&hide_border=true&count_private=true)
+  <a href="https://github.com/ultralytics/ultralytics">
+    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=ultralytics&repo=ultralytics&theme=tokyonight&hide_border=true" />
+  </a>
 
-  ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=raimbekovm&layout=compact&theme=tokyonight&hide_border=true)
+  <a href="https://github.com/raimbekovm/computer_vision_course">
+    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=raimbekovm&repo=computer_vision_course&theme=tokyonight&hide_border=true" />
+  </a>
+
+  <a href="https://github.com/raimbekovm/hackathon-urban-tech">
+    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=raimbekovm&repo=hackathon-urban-tech&theme=tokyonight&hide_border=true" />
+  </a>
+
+  <a href="https://github.com/raimbekovm/car-market-scraper">
+    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=raimbekovm&repo=car-market-scraper&theme=tokyonight&hide_border=true" />
+  </a>
+
+  <a href="https://github.com/raimbekovm/database_auca">
+    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=raimbekovm&repo=database_auca&theme=tokyonight&hide_border=true" />
+  </a>
 
   </div>
 
