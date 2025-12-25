@@ -28,12 +28,14 @@
 
   ### [Ultralytics YOLO](https://github.com/ultralytics/ultralytics) - 50k+ ⭐
 
-  Contributing to one of the most popular computer vision frameworks.
+  Active contributor to one of the most popular computer vision frameworks with **3 merged pull requests**.
 
   **Merged Pull Requests:**
+  - 📝 [#23029](https://github.com/ultralytics/ultralytics/pull/23029) - Clarified Docker output directory in Quickstart Guide (fixes #22938)
+  - 🧹 [#23028](https://github.com/ultralytics/ultralytics/pull/23028) - Removed redundant assert statements in loss.py for cleaner code
   - 🔧 [#23024](https://github.com/ultralytics/ultralytics/pull/23024) - Fixed incorrect docstrings in neural network modules
 
-  **Impact:** Improving code quality and maintainability for 10,000+ weekly users
+  **Impact:** Improving code quality, documentation clarity, and user experience for 10,000+ weekly users
 
   ---
 
