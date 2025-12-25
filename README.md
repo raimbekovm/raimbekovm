@@ -19,23 +19,27 @@
   ML/CV Engineer specializing in **Computer Vision** and **Deep Learning**. Passionate about developing solutions that solve real-world problems.
 
   - 🎯 Expertise: **Object Detection, Image Segmentation, YOLO models**
-  - 🌟 **Open Source Contributor** to [Ultralytics YOLO](https://github.com/ultralytics/ultralytics) (50k+ ⭐)
+  - 🌟 **Open Source Contributor** to [Ultralytics YOLO](https://github.com/ultralytics/ultralytics), [OpenCV](https://github.com/opencv/opencv), and [Transformers](https://github.com/huggingface/transformers)
   - 📚 Always learning: Advanced CV architectures, MLOps, Edge AI
 
   ---
 
   ## 🌟 Open Source Contributions
 
-  ### [Ultralytics YOLO](https://github.com/ultralytics/ultralytics) - 50k+ ⭐
+  <div align="center">
 
-  Active contributor to one of the most popular computer vision frameworks with **3 merged pull requests**.
+  ![Total PRs](https://img.shields.io/badge/Merged%20PRs-5%2B-success?style=for-the-badge&logo=github)
+  ![Contribution Impact](https://img.shields.io/badge/Impact-Millions%20of%20developers-blue?style=for-the-badge&logo=opensourceinitiative&logoColor=white)
 
-  **Merged Pull Requests:**
-  - 📝 [#23029](https://github.com/ultralytics/ultralytics/pull/23029) - Clarified Docker output directory in Quickstart Guide (fixes #22938)
-  - 🧹 [#23028](https://github.com/ultralytics/ultralytics/pull/23028) - Removed redundant assert statements in loss.py for cleaner code
-  - 🔧 [#23024](https://github.com/ultralytics/ultralytics/pull/23024) - Fixed incorrect docstrings in neural network modules
+  </div>
 
-  **Impact:** Improving code quality, documentation clarity, and user experience for 10,000+ weekly users
+  Contributing to major computer vision libraries and frameworks:
+
+  ### [Ultralytics YOLO](https://github.com/ultralytics/ultralytics) ![Stars](https://img.shields.io/github/stars/ultralytics/ultralytics?style=social)
+  Code improvements, bug fixes, and documentation enhancements
+
+  ### [OpenCV](https://github.com/opencv/opencv) ![Stars](https://img.shields.io/github/stars/opencv/opencv?style=social)
+  Documentation improvements and error corrections
 
   ---
 
