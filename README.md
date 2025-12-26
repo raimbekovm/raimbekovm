@@ -52,7 +52,7 @@ Documentation improvements and fixes across ML/CV libraries:
 | [OpenCV](https://github.com/opencv/opencv) (85k+ stars) | [#28297](https://github.com/opencv/opencv/pull/28297), [#28298](https://github.com/opencv/opencv/pull/28298), [#28300](https://github.com/opencv/opencv/pull/28300), [#28304](https://github.com/opencv/opencv/pull/28304) | Documentation fixes |
 | [pytorch-image-models](https://github.com/huggingface/pytorch-image-models) (33k+ stars) | [#2634](https://github.com/huggingface/pytorch-image-models/pull/2634) | Docstrings |
 
-Added to [Ultralytics documentation authors](https://github.com/ultralytics/docs/pull/23041).
+Added to [Ultralytics documentation authors](https://github.com/ultralytics/ultralytics/blob/main/docs/mkdocs_github_authors.yaml).
 
 ---
 
