@@ -1,130 +1,83 @@
-<div align="center">
+# Murat Raimbekov
 
-  # 👋 Hi, I'm Murat Raimbekov
+**ML/CV Engineer** | Computer Vision & Deep Learning
 
-  ### ML/CV Engineer
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/murat-raimbekov)
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white)](https://github.com/raimbekovm)
 
-  *Building intelligent systems that see and understand the world*
+---
 
-  [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/murat-raimbekov)
-  [![Email](https://img.shields.io/badge/Email-Contact-red?style=for-the-badge&logo=gmail)](mailto:raimbekov_m@auca.kg)
-  [![GitHub](https://img.shields.io/badge/GitHub-Follow-181717?style=for-the-badge&logo=github)](https://github.com/raimbekovm)
+## Experience
 
-  </div>
+### Data Science & Machine Learning Intern — [Baker Tilly](https://www.linkedin.com/company/baker-tilly-bishkek/)
+**Jul 2025 – Present** | Bishkek, Kyrgyzstan
 
-  ---
+Building [Atlas](https://www.linkedin.com/company/atlas-kyrgyzstan/) — automated real estate and asset valuation platform.
 
-  ## 🚀 About Me
+- Data collection, cleaning, and feature engineering on **10,000+ property records**
+- Fine-tuned **XGBoost, LightGBM** models for property valuation
+- Collaborated with cross-functional teams (legal, finance, operations) to align ML with business requirements
 
-  ML/CV Engineer specializing in **Computer Vision** and **Deep Learning**. Passionate about developing solutions that solve real-world problems.
+---
 
-  - 🎯 Expertise: **Object Detection, Image Segmentation, YOLO models**
-  - 🌟 **Open Source Contributor** to [Ultralytics YOLO](https://github.com/ultralytics/ultralytics), [OpenCV](https://github.com/opencv/opencv), and [Transformers](https://github.com/huggingface/transformers)
-  - 📚 Always learning: Advanced CV architectures, MLOps, Edge AI
+## Projects
 
-  ---
+### Insulator Segmentation
+U-Net + ResNet34 encoder for power line insulator detection.
+- **Result:** 0.9895 Dice coefficient
+- **Stack:** PyTorch, segmentation-models-pytorch, Albumentations
+- [Repository](https://github.com/raimbekovm/computer_vision_course)
 
-  ## 🌟 Open Source Contributions
+### Medical Image Segmentation
+Skin lesion detection with U-Net, SegNet, Residual U-Net architectures.
+- **Result:** 0.654 IoU, ablation studies on loss functions (BCE, Dice, Focal)
+- **Stack:** PyTorch, OpenCV, Albumentations
+- [Repository](https://github.com/raimbekovm/computer_vision_course)
 
-  <div align="center">
+### Grain Classification
+Ensemble model (EfficientNetV2 + ConvNeXt) for agricultural grain classification.
+- **Approach:** 5-fold CV, Test-Time Augmentation, mixed precision training
+- **Stack:** PyTorch, timm, Optuna
+- [Repository](https://github.com/raimbekovm/computer_vision_course)
 
-  ![Total PRs](https://img.shields.io/badge/Merged%20PRs-5%2B-success?style=for-the-badge&logo=github)
-  ![Contribution Impact](https://img.shields.io/badge/Impact-Millions%20of%20developers-blue?style=for-the-badge&logo=opensourceinitiative&logoColor=white)
+---
 
-  </div>
+## Open Source Contributions
 
-  Contributing to major computer vision libraries and frameworks:
+Documentation improvements and fixes across ML/CV libraries:
 
-  ### [Ultralytics YOLO](https://github.com/ultralytics/ultralytics) ![Stars](https://img.shields.io/github/stars/ultralytics/ultralytics?style=social)
-  Code improvements, bug fixes, and documentation enhancements
+| Repository | PRs | Type |
+|------------|-----|------|
+| [Ultralytics YOLO](https://github.com/ultralytics/ultralytics) (50k+ stars) | [#23024](https://github.com/ultralytics/ultralytics/pull/23024), [#23028](https://github.com/ultralytics/ultralytics/pull/23028), [#23029](https://github.com/ultralytics/ultralytics/pull/23029), [#23049](https://github.com/ultralytics/ultralytics/pull/23049) | Docstrings, docs, code cleanup |
+| [OpenCV](https://github.com/opencv/opencv) (85k+ stars) | [#28297](https://github.com/opencv/opencv/pull/28297), [#28298](https://github.com/opencv/opencv/pull/28298), [#28300](https://github.com/opencv/opencv/pull/28300), [#28304](https://github.com/opencv/opencv/pull/28304) | Documentation fixes |
+| [pytorch-image-models](https://github.com/huggingface/pytorch-image-models) (33k+ stars) | [#2634](https://github.com/huggingface/pytorch-image-models/pull/2634) | Docstrings |
 
-  ### [OpenCV](https://github.com/opencv/opencv) ![Stars](https://img.shields.io/github/stars/opencv/opencv?style=social)
-  Documentation improvements and error corrections
+Added to [Ultralytics documentation authors](https://github.com/ultralytics/docs/pull/23041).
 
-  ---
+---
 
-  ## 🛠️ Tech Stack
+## Skills
 
-  ### Machine Learning & Computer Vision
-  ![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
-  ![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
-  ![YOLO](https://img.shields.io/badge/YOLO-00FFFF?style=for-the-badge&logo=yolo&logoColor=black)
-  ![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white)
-  ![scikit--learn](https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
+**CV/ML:** PyTorch, YOLO, OpenCV, Albumentations, segmentation-models-pytorch, timm, scikit-learn, XGBoost, LightGBM
 
-  ### Programming & Tools
-  ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-  ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-  ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
-  ![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white)
+**Languages:** Python, C++, SQL (PostgreSQL)
 
-  ### Featured Projects & Achievements
-  - **🏆 Insulator Segmentation**: 0.9895 Dice coefficient with U-Net + ResNet34
-  - **🏆 Road Defects Detection**: 85%+ mAP with YOLOv8 (Yandex Hackathon 2024)
-  - **🏆 Grain Classification**: High F1-Score with Ensemble (EfficientNetV2 + ConvNeXt)
-  - **🛠️ Deployment**: ONNX, TensorRT, OpenVINO, Edge AI
+**Tools:** Git, Jupyter, pandas, NumPy, Matplotlib
 
-  ---
+---
 
-  ## 📌 Featured Repositories
+## Education
 
-  ### [🔥 Ultralytics YOLO](https://github.com/ultralytics/ultralytics)
-  **YOLOv8, YOLOv11 - State-of-the-art object detection framework**
-  - 50k+ stars | Contributing to the most popular computer vision library
-  - Fixed neural network module docstrings ([#23024](https://github.com/ultralytics/ultralytics/pull/23024))
+**American University of Central Asia** — B.S. Applied Mathematics and Informatics
 
-  ### [🎓 Computer Vision Course](https://github.com/raimbekovm/computer_vision_course)
-  **Comprehensive CV projects: Segmentation, Classification, Detection**
-  - U-Net semantic segmentation: **0.9895 Dice coefficient**
-  - Grain classification with EfficientNetV2 + ConvNeXt ensemble
-  - 11+ deep learning notebooks covering PyTorch, CNN, ResNet, Object Detection
+*Sep 2022 – May 2026* | GPA: 3.3/4.0
 
-  ### [🏙️ Smart City - Road Defects Detection](https://github.com/raimbekovm/hackathon-urban-tech)
-  **AI-powered road infrastructure monitoring (Yandex Hackathon 2024)**
-  - YOLOv8 object detection: **85%+ mAP**
-  - Real-time analytics with Leaflet.js mapping
-  - Technologies: YOLOv8, JavaScript, Leaflet.js
+Coursework: Neural Networks & Deep Learning, Data Science & Machine Learning, OOP, Data Structures & Algorithms, Probability Theory & Statistics, Mathematical Analysis
 
-  ### [🚗 Car Market Scraper](https://github.com/raimbekovm/car-market-scraper)
-  **Automated web scraping system for automotive data**
-  - Scrapes Kolesa.kz, Drom.ru, Mashina.kg
-  - Clean, structured dataset generation
-  - Technologies: Python, Beautiful Soup, Selenium
+---
 
-  ### [💾 Database Course Projects](https://github.com/raimbekovm/database_auca)
-  **PostgreSQL database design and implementation**
-  - SQL queries, ER modeling, indexing strategies
-  - Transactions, backup, and optimization techniques
-  - Course: COM-424.1 Databases at AUCA
+## Contact
 
-  ---
-
-  ## 💡 Current Focus
-
-  ```python
-  class CurrentFocus:
-      learning = ["Advanced YOLO architectures", "MLOps", "Edge AI deployment"]
-      building = ["Custom CV solutions", "Real-time object detection systems"]
-      contributing = ["Ultralytics YOLO", "Open source ML tools"]
-      exploring = ["Vision Transformers", "3D Object Detection"]
-  ```
-
-  ---
-
-  ## 🤝 Let's Connect!
-
-  I'm always interested in collaborating on exciting Computer Vision projects.
-
-  - 💼 LinkedIn: [linkedin.com/in/murat-raimbekov](https://www.linkedin.com/in/murat-raimbekov)
-  - 📧 Email: raimbekov_m@auca.kg
-  - 💻 GitHub: [github.com/raimbekovm](https://github.com/raimbekovm)
-
-  ---
-
-  <div align="center">
-
-  ![Profile Views](https://komarev.com/ghpvc/?username=raimbekovm&color=blue&style=flat-square)
-
-  **⭐ Open to collaboration and full-time opportunities**
-
-  </div>
+- LinkedIn: [linkedin.com/in/murat-raimbekov](https://www.linkedin.com/in/murat-raimbekov)
+- GitHub: [github.com/raimbekovm](https://github.com/raimbekovm)
+- Email: raimbekov_m@auca.kg
