@@ -45,7 +45,7 @@ Active contributor to major ML/CV frameworks:
 [![timm](https://img.shields.io/badge/timm-PyTorch-EE4C2C?logo=pytorch&logoColor=white)](https://github.com/huggingface/pytorch-image-models)
 [![Transformers](https://img.shields.io/badge/🤗_Transformers-FFD21E)](https://github.com/huggingface/transformers)
 
-Bug fixes, documentation improvements. 15 merged PRs. [View all →](https://github.com/pulls?q=author%3Araimbekovm+is%3Amerged)
+Bug fixes, code optimizations, documentation improvements. **21 merged PRs.** [View all →](https://github.com/pulls?q=author%3Araimbekovm+is%3Amerged)
 
 ---
 
