@@ -9,7 +9,7 @@
 
 ## Experience
 
-### Data Science & Machine Learning Intern — [Baker Tilly](https://www.linkedin.com/company/baker-tilly-bishkek/)
+### Data Science & Machine Learning Intern — [Baker Tilly](https://www.linkedin.com/company/baker-tilly-international/)
 **Jul 2025 – Present** | Bishkek, Kyrgyzstan
 
 Building [Atlas](https://www.linkedin.com/company/atlas-kyrgyzstan/) — automated real estate and asset valuation platform.
