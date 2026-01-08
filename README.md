@@ -20,22 +20,6 @@ Building [Atlas](https://www.linkedin.com/company/atlas-kyrgyzstan/) — automat
 
 ---
 
-## Projects
-
-### Insulator Segmentation
-U-Net + ResNet34 encoder for power line insulator detection.
-- **Result:** 0.9895 Dice coefficient
-- **Stack:** PyTorch, segmentation-models-pytorch, Albumentations
-- [Repository](https://github.com/raimbekovm/computer_vision_course)
-
-### Grain Classification
-Ensemble model (EfficientNetV2 + ConvNeXt) for agricultural grain classification.
-- **Approach:** 5-fold CV, Test-Time Augmentation, mixed precision training
-- **Stack:** PyTorch, timm, Optuna
-- [Repository](https://github.com/raimbekovm/computer_vision_course)
-
----
-
 ## Open Source
 
 Active contributor to major ML/CV frameworks:
