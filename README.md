@@ -10,14 +10,19 @@
 
 ## Experience
 
-### Data Science & Machine Learning Intern — [Baker Tilly](https://www.linkedin.com/company/baker-tilly-international/)
-**Jul 2025 – Present** | Bishkek, Kyrgyzstan
+### Junior Machine Learning Engineer — [Baker Tilly](https://www.linkedin.com/company/baker-tilly-international/)
+**Jan 2026 – Present** | Bishkek, Kyrgyzstan
 
-Building [Atlas](https://www.linkedin.com/company/atlas-kyrgyzstan/) — automated real estate and asset valuation platform.
+Building [Atlas](https://www.linkedin.com/company/atlas-kyrgyzstan/) — automated real estate valuation platform for Kyrgyzstan market.
+
+- Fine-tuned **XGBoost, LightGBM** models achieving **R² 0.70**, **MAPE 8%** on property valuation
+- Used LLM prompts to extract structured data from listing descriptions
+
+### Data Science Intern — [Baker Tilly](https://www.linkedin.com/company/baker-tilly-international/)
+**Jul 2025 – Dec 2025** | Bishkek, Kyrgyzstan
 
 - Data collection, cleaning, and feature engineering on **10,000+ property records**
-- Fine-tuned **XGBoost, LightGBM** models for property valuation
-- Collaborated with cross-functional teams (legal, finance, operations) to align ML with business requirements
+- Built data pipelines for scraping and processing real estate listings
 
 ---
 
