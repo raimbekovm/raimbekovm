@@ -12,7 +12,7 @@
 
 **29 merged PRs** across major ML/CV frameworks:
 
-[![Ultralytics](https://img.shields.io/badge/Ultralytics_YOLO-20_PRs-blue?logo=yolo)](https://github.com/ultralytics/ultralytics)
+[![Ultralytics](https://img.shields.io/badge/Ultralytics_YOLO-22_PRs-blue?logo=yolo)](https://github.com/ultralytics/ultralytics)
 [![OpenCV](https://img.shields.io/badge/OpenCV-4_PRs-5C3EE8?logo=opencv&logoColor=white)](https://github.com/opencv/opencv)
 [![Transformers](https://img.shields.io/badge/🤗_Transformers-3_PRs-FFD21E)](https://github.com/huggingface/transformers)
 [![timm](https://img.shields.io/badge/timm-1_PR-EE4C2C?logo=pytorch&logoColor=white)](https://github.com/huggingface/pytorch-image-models)
