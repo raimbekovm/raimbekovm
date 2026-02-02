@@ -117,7 +117,7 @@
 \section{Summary}
  \begin{itemize}[leftmargin=0.15in, label={}]
     \small{\item{
-     ML Engineer specializing in tabular ML and computer vision. 29 merged PRs to Ultralytics YOLO, OpenCV, HuggingFace. Building production ML systems for real estate valuation. Strong foundation in PyTorch, gradient boosting, and feature engineering.
+     ML Engineer specializing in tabular ML and computer vision. 39 merged PRs to Ultralytics YOLO, OpenCV, HuggingFace, PyTorch. Building production ML systems for real estate valuation. Strong foundation in PyTorch, gradient boosting, and feature engineering.
     }}
  \end{itemize}
  \vspace{-16pt}
@@ -131,15 +131,15 @@
       {\href{https://www.linkedin.com/company/baker-tilly-bishkek/}{Baker Tilly}}{Bishkek, Kyrgyzstan}
       \resumeItemListStart
         \resumeItem{Building \textbf{\href{https://www.linkedin.com/company/atlas-kyrgyzstan/}{Atlas}} — automated real estate valuation platform for Kyrgyzstan market}
-        \resumeItem{Fine-tuned \textbf{XGBoost, LightGBM} models achieving \textbf{R² 0.70}, \textbf{MAPE 8\%} on property valuation}
-        \resumeItem{Used \textbf{Gemini} and \textbf{Groq} APIs to extract structured data (amenities, condition, materials) from listing descriptions}
+        \resumeItem{Fine-tuned \textbf{XGBoost, LightGBM} models achieving \textbf{R² 0.76}, \textbf{MAE \$122/m²} on property valuation}
+        \resumeItem{Built \textbf{NLP pipeline} using Gemini and Groq APIs for structured information extraction from listing descriptions}
       \resumeItemListEnd
 
     \resumeSubheading
       {Data Science Intern}{Jul 2025 -- Dec 2025}
       {\href{https://www.linkedin.com/company/baker-tilly-bishkek/}{Baker Tilly}}{Bishkek, Kyrgyzstan}
       \resumeItemListStart
-        \resumeItem{Performed data collection, cleaning, and feature engineering on \textbf{10,000+ property records}}
+        \resumeItem{Performed data collection, cleaning, and feature engineering on \textbf{30,000+ property records}}
         \resumeItem{Built data pipelines for scraping and processing real estate listings from multiple sources}
       \resumeItemListEnd
 
@@ -150,8 +150,8 @@
 \section{Open Source}
  \begin{itemize}[leftmargin=0.15in, label={}]
     \small{\item{
-     \textbf{29 merged PRs} across \href{https://github.com/ultralytics/ultralytics}{Ultralytics YOLO} (20), \href{https://github.com/opencv/opencv}{OpenCV} (4), \href{https://github.com/huggingface/transformers}{Transformers} (3), \href{https://github.com/huggingface/pytorch-image-models}{timm} (1), \href{https://github.com/pytorch/vision}{torchvision} (1) \\
-     Bug fixes (OBB loss indexing, operator precedence), code optimizations, documentation improvements \\
+     \textbf{39 merged PRs} across \href{https://github.com/ultralytics/ultralytics}{Ultralytics YOLO} (22), \href{https://github.com/opencv/opencv}{OpenCV} (7), \href{https://github.com/huggingface/transformers}{Transformers} (6), \href{https://github.com/pytorch/vision}{torchvision} (4) \\
+     Bug fixes (MoE CUDA non-determinism, OBB loss indexing, tv\_tensors subclass preservation, empty masks handling), code refactoring, documentation \\
      Listed in \href{https://github.com/ultralytics/ultralytics/blob/main/docs/mkdocs_github_authors.yaml}{Ultralytics documentation authors}
     }}
  \end{itemize}
@@ -165,7 +165,7 @@
       \resumeProjectHeading
           {\textbf{Real Estate Valuation (Central Asia)} $|$ \emph{XGBoost, LightGBM, CatBoost, ResNet-50, Optuna} $|$ \href{https://github.com/raimbekovm/real-estate-valuation}{\underline{GitHub}}}{2025}
           \resumeItemListStart
-            \resumeItem{Built valuation models for Bishkek (\textbf{R² 0.76}, MAE \$122/m²) and Astana (\textbf{R² 0.83}) markets}
+            \resumeItem{Built valuation models for Astana market achieving \textbf{R² 0.83}}
             \resumeItem{Engineered \textbf{45+ features}: H3 geospatial tiles, POI distances, target encoding, spatial lag}
             \resumeItem{Built CV pipeline: ResNet-50 feature extraction → mean pooling → PCA on \textbf{64K property images}}
             \resumeItem{Published datasets and models on Kaggle and HuggingFace (\textbf{27K listings}, 64K images)}
